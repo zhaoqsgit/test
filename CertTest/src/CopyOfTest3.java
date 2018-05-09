@@ -1,0 +1,4 @@
+
+public class CopyOfTest3 {
+
+}
